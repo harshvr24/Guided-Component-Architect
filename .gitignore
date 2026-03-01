@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node / Next
+pythrust/frontend/node_modules/
+pythrust/frontend/.next/
+
+# Local secrets
+.env
